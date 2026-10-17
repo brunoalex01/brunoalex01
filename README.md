@@ -3,7 +3,7 @@
 Desenvolvedor de sites em PHP
 
 Desenvolvedor de Jogos utilizando Godot e Unity
-<img size:50px, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 
 
