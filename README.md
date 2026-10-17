@@ -1,6 +1,13 @@
 ## Salve!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+Desenvolvedor de sites em PHP
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+Desenvolvedor de Jogos utilizando Godot e Unity
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+
+
+
 
 <!--
 **brunoalex01/brunoalex01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
